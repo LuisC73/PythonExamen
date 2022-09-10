@@ -10,7 +10,12 @@
 
 ### Sobre el proyecto
 
-- Ejercicios elaborados en clase los viernes para comprender el lenguaje de programacion python
+- Ejercicios de prueba de conocimiento
+
+### Autores
+
+- Juan Pablo Garcia Hernandez
+- Luis Miguel Castro
 
 
 ```bash
