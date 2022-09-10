@@ -13,6 +13,5 @@ for variable in range(c):
     if numero%3 == 0:
         contadorTres = contadorTres + 1
 
-
 print(f'Usted ingreso {contadorDos} numeros multiplos de 2')
 print(f'Usted ingreso {contadorTres} numeros multiplos de 3')
