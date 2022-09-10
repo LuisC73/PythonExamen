@@ -18,4 +18,3 @@ print(frutas)
 rev = list(reversed(frutas))
 print(rev)
     
-
